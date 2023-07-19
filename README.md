@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a><img src="./avata.png" alt="working-home" width="50px" height="50px"/>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <img src="./fullstack.jpg" alt="fullstack developer" width="100%" height="25%"/>
 
@@ -11,7 +11,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 &nbsp;
 
-### ✨&nbsp; About Me
+### ✨&nbsp; About Me <img src="./avata.png" alt="working-home" width="50px" height="50px"/>
 
 I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
